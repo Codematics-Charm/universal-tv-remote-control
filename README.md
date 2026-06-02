@@ -14,6 +14,6 @@ Universal TV Remote Control by Codematics is a powerful TV remote app trusted by
 
 ## Download the App
 
-- Google Play: Add your Google Play link here
-- Apple App Store: Add your App Store link here
-- Official Website: Add your website link here
+- Google Play: https://play.google.com/store/apps/details?id=codematics.universal.tv.remote.control
+- Apple App Store: https://apps.apple.com/us/app/universal-tv-remote-control/id1492122256
+- Official Website:https://www.universaltvremotecontrol.com/
