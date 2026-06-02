@@ -1,45 +1,19 @@
 # Universal TV Remote Control
 
-Universal TV Remote Control is a Smart TV remote application developed by Codematics. The app allows users to control compatible Smart TVs and streaming devices using Android and iOS smartphones.
+Universal TV Remote Control by Codematics is a powerful TV remote app trusted by users worldwide.
 
-## Official Links
+## Key Features
 
-Website:
-https://www.universaltvremotecontrol.com/
+- 130 Million Plus Downloads
+- 700 Plus TV Brands Compatibility
+- Users in More Than 100 Countries
+- Keyboard and D Pad Navigation
+- Voice Control Features
+- User Friendly Interface
+- Supports Both WiFi and IR Connectivity
 
-Google Play:
-https://play.google.com/store/apps/details?id=codematics.universal.tv.remote.control
+## Download the App
 
-Apple App Store:
-https://apps.apple.com/us/app/universal-tv-remote-control/id1492122256
-
-## Supported TV Brands
-
-- Samsung TV
-- LG TV
-- Sony TV
-- TCL TV
-- Hisense TV
-- Roku TV
-- Fire TV
-- Android TV
-- Smart TVs from other compatible brands
-
-## Features
-
-- Smart TV remote control
-- TV discovery and pairing
-- Volume and channel control
-- Streaming device support
-- Wi-Fi connectivity
-- Easy TV setup
-
-## Setup Guides
-
-Visit our website for setup instructions and troubleshooting:
-
-https://www.universaltvremotecontrol.com/
-
-## About Codematics
-
-Codematics develops software and mobile applications for Smart TVs, streaming devices, and consumer electronics.
+- Google Play: Add your Google Play link here
+- Apple App Store: Add your App Store link here
+- Official Website: Add your website link here
